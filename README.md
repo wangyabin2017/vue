@@ -1,6 +1,6 @@
 # sell
 
-> sell app
+> sell app阿萨
 
 ## Build Setup
 
